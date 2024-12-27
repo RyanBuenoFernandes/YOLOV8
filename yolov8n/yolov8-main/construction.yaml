@@ -1,0 +1,24 @@
+
+path: ./
+train: construction/train
+val: construction/val
+test: construction/test
+
+# Classes
+names:
+  0: alicate-de-ferro
+  1: bastao-de-ferro
+  2: bastao-de-madeira
+  3: cabo de borracha
+  4: cabo de madeira
+  5: chave-de-fenda
+  6: empunhadura-de-borracha
+  7: empunhadura-de-plastico
+  8: espatula-de-ferro
+  9: haste-borracha
+  10: haste-de-metal
+  11: martelo de borracha
+  12: martelo de ferro
+  13: pa-de-ferro
+  14: punho-de-borracha
+  15: punho-de-madeira

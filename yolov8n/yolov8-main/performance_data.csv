@@ -1,0 +1,6 @@
+pre-processamento,classe/acuracia,acuracia media
+Remoção de Ruído,"haste-borracha/0.99, alicate-de-ferro/0.98",0.95
+Equalização de Histograma,"pa-de-ferro/0.99, cabo de borracha/0.71, chave-de-fenda/0.58, martelo de borracha/0.71, empunhadura-de-plastico/0.15, martelo de ferro/0.54, cabo de madeira/0.10, alicate-de-ferro/0.99, haste-borracha/0.98, espatula-de-ferro/0.56, bastao-de-madeira/0.87",0.59
+Suavização com Filtro Bilateral,"chave-de-fenda/0.92, empunhadura-de-borracha/0.95, cabo de borracha/0.99, martelo de ferro/0.98, martelo de borracha/0.95, cabo de madeira/0.96, espatula-de-ferro/0.98, punho-de-borracha/0.98, punho-de-madeira/0.95",0.84
+Equalização de Histograma CLAHE,"pa-de-ferro/0.99, bastao-de-madeira/0.92, alicate-de-ferro/0.25, punho-de-borracha/0.21, chave-de-fenda/0.24, haste-borracha/0.79, espatula-de-ferro/0.68, empunhadura-de-plastico/0.12, cabo de borracha/0.11",0.34
+Suavização Gaussiana,"cabo de borracha/0.89, espatula-de-ferro/0.37, alicate-de-ferro/0.46, chave-de-fenda/0.18, martelo de borracha/0.16, bastao-de-madeira/0.14, martelo de ferro/0.96, cabo de madeira/0.87",0.50
